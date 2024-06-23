@@ -60,11 +60,3 @@ void setupScene2() {
  Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for enhancements and bug fixes.
-
- License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify this description according to your preferences or add any additional details that you find necessary.
